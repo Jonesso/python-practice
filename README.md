@@ -1,2 +1,2 @@
-# python-practice
-Python Programming Practice in MIREA University
+# Python Programming Practice
+Павлинина Софья, группа ИКБО-01-19
