@@ -9,6 +9,6 @@ def f14(n):
         return math.cos(f14(n - 1)) + f14(n - 1) / 65
 
 
-if __name__ == '__main__':
-    print("{:.2e}".format(f14(16)))
-    print("{:.2e}".format(f14(13)))
+# if __name__ == '__main__':
+#     print("{:.2e}".format(f14(16)))
+#     print("{:.2e}".format(f14(13)))

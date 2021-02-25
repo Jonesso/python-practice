@@ -10,6 +10,6 @@ def f13(n):
     return sum1 / 66 + 94 * sum2
 
 
-if __name__ == '__main__':
-    print("{:.2e}".format(f13(91)))
-    print("{:.2e}".format(f13(43)))
+# if __name__ == '__main__':
+#     print("{:.2e}".format(f13(91)))
+#     print("{:.2e}".format(f13(43)))

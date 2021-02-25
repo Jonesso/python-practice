@@ -8,6 +8,6 @@ def f11(x):
         (10 * x + (x ** 2) / 94 + 9) / (x ** 2 / 30 + 2 * (x ** 4)))
 
 
-if __name__ == '__main__':
-    print("{:.2e}".format(f11(63)))
-    print("{:.2e}".format(f11(39)))
+# if __name__ == '__main__':
+#     print("{:.2e}".format(f11(63)))
+#     print("{:.2e}".format(f11(39)))

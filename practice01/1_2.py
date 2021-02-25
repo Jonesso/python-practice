@@ -11,6 +11,6 @@ def f12(x):
         return 57 * x ** 7 + x ** 6
 
 
-if __name__ == '__main__':
-    print("{:.2e}".format(f12(143)))
-    print("{:.2e}".format(f12(30)))
+# if __name__ == '__main__':
+#     print("{:.2e}".format(f12(143)))
+#     print("{:.2e}".format(f12(30)))
